@@ -1,5 +1,6 @@
 ## Olá, Meu nome é Rodrigo Lima 
 - 🔭 Graduando em Engenharia da Computação
+- 🔭 Atualmente trabalho como Software Engineer & Data Analytics no Superior Tribunal de Justiça (STJ)
 - 🔭 Front-end 
 - 👯 Contate-me no email: zrodrigolimaz@gmail.com 
 <div>
