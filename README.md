@@ -1,8 +1,8 @@
-## hi there, Meu nome é Rodrigo Lima
+## Olá, Meu nome é Rodrigo Lima
 
 - 🔭 Graduando em Engenharia da Computação 7/10
-- 🔭 Front-end E Back-End ...
-- 🌱 Estudando JavaScript | React
+- 🔭 Front-end E Back-End
+- 🌱 Estudos em JavaScript | React
 - 👯 Contate-me no email: zrodrigolimaz@gmail.com 
 
 <div>
