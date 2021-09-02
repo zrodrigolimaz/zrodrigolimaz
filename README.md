@@ -1,11 +1,11 @@
 ## Olá, Meu nome é Rodrigo Lima 
-- 🔭 Graduando em Engenharia da Computação 7/10
+- 🔭 Graduando em Engenharia da Computação
 - 🔭 Front-end 
 - 👯 Contate-me no email: zrodrigolimaz@gmail.com 
 <div>
 <a href="https://github.com/zrodrigolimaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrodrigolimaz&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrodrigolimaz&layout=compact&langs_count=7&theme=react"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zrodrigolimaz&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrodrigolimaz&layout=compact&langs_count=7&theme=react"/>
 </div>
 <h2>🛠️ Ferramentas e Tecnologias </h2>
 <div style="display: inline_block"><br>
