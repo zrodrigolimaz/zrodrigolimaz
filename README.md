@@ -5,9 +5,9 @@
 <div>
 <a href="https://github.com/zrodrigolimaz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrodrigolimaz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrodrigolimaz&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrodrigolimaz&layout=compact&langs_count=7&theme=react"/>
 </div>
- <h2>🛠️ Ferramentas e Tecnologias </h2>
+<h2>🛠️ Ferramentas e Tecnologias </h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodrigo-Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
