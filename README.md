@@ -2,7 +2,7 @@
 - 🖥️ Graduando em Engenharia da Computação
 - 👨‍💼 Atualmente estagio como Software Engineer & Data Analytics no Superior Tribunal de Justiça (STJ) 
 - 🔭 Front-end 
-- 👯 contate-me no Email: zrodrigolimaz@gmail.com 
+- 👯 contate-me no Email: rodrigolima@sempreceub.com
 <div>
 <a href="https://github.com/zrodrigolimaz">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zrodrigolimaz&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
 <div> 
  <h2> 👯 Contato</h2>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:zrodrigolimaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigolima@sempreceub.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zrodrigolimaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
