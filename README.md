@@ -1,8 +1,7 @@
 ## Olá, Meu nome é Rodrigo Lima 
 - 🖥️ Graduando em Engenharia da Computação
-- 👨‍💼 Atualmente estagio como Software Engineer & Data Analytics no Superior Tribunal de Justiça (STJ) 
 - 🔭 Front-end 
-- 👯 contate-me no Email: rodrigolima@sempreceub.com
+- 👯 contate-me no Email: dev@rodrigolima.tech
 <div>
 <a href="https://github.com/zrodrigolimaz">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zrodrigolimaz&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
