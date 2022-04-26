@@ -1,6 +1,5 @@
 ## Olá, Meu nome é Rodrigo Lima 
-- 🖥️ Graduando em Engenharia da Computação
-- 🔭 Front-end 
+- 🖥️ Graduando em Engenharia de Computação
 - 👯 contate-me no Email: dev@rodrigolima.tech
 <div>
 <a href="https://github.com/zrodrigolimaz">
