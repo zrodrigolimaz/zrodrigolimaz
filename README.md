@@ -1,5 +1,4 @@
-## Olá, Meu nome é Rodrigo Lima 
-- 🖥️ Graduando em Engenharia de Computação
+## Olá, Bem-vindo aos meus repositórios.  
 - 👯 contate-me no Email: dev@rodrigolima.tech
 <div>
 <a href="https://github.com/zrodrigolimaz">
