@@ -1,7 +1,7 @@
 ## Olá, Bem-vindo aos meus repositórios.
 <div align="center">
   
-  Contate-me no Email: dev@rodrigolima.tech
+  Contato: dev@rodrigolima.tech
 <div>
 <a href="https://github.com/zrodrigolimaz">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrodrigolimaz&layout=compact&langs_count=7&theme=react"/>
