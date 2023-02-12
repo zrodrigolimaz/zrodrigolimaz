@@ -45,8 +45,8 @@
 ###
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/zrodrigolimaz/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  
-   <a href="https://www.linkedin.com/in/zrodrigolimaz/" target="_blank">     
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/zrodrigolimaz/" target="_blank" >
+ 
  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
