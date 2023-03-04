@@ -9,8 +9,7 @@
 <h2 align="left">Welcome to my repositories</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 2018<br>📚 Always learning ...<br><br>With a passion for technology and innovative solutions, I am a highly skilled software developer with extensive experience in complex and challenging projects. Graduated in Computer Engineering, I possess solid skills in programming, system architecture, and agile methodologies.<br><br>I strongly believe in the importance of innovation and technology in shaping the future, and I am constantly seeking new challenges and opportunities to expand my horizons and contribute to the advancement of the industry.
+With a passion for technology and innovative solutions, I am a highly skilled software developer with extensive experience in complex and challenging projects. Graduated in Computer Engineering, I possess solid skills in programming, system architecture, and agile methodologies.<br><br>I strongly believe in the importance of innovation and technology in shaping the future, and I am constantly seeking new challenges and opportunities to expand my horizons and contribute to the advancement of the industry.
 </p>
 
 
