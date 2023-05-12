@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rodrigo and I'm a Developer | Engineer</p>
+<p align="left">I'm a Developer | Engineer</p>
 
 ###
 
