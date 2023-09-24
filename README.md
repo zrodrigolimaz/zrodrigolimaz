@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Developer | Engineer</p>
+<p align="left">I'm a Engineer | Developer </p>
 
 ###
 
